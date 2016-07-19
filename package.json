@@ -1,0 +1,17 @@
+{
+  "name": "pgo-js-api",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/pgo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wesley de Souza",
+  "repository": "https://github.com/WesleydeSouza/pgo-js-api",
+  "license": "MIT",
+  "dependencies": {
+    "geocoder": "^0.2.2",
+    "needle": "^1.0.0",
+    "protobufjs": "^5.0.1"
+  }
+}
