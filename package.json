@@ -1,7 +1,7 @@
 {
   "name": "pgo-js-api",
   "version": "0.1.0",
-  "description": "",
+  "description": "Unofficial, totally incomplete Pokémon GO JS API",
   "main": "lib/pgo.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
